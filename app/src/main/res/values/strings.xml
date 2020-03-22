@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">AMS</string>
+    <string name="welcome">Attendence Manager</string>
+    <string name="registration">Register</string>
+    <string name="login">Login</string>
+    <string name="user">USERNAME</string>
+    <string name="pass">PASSWORD</string>
+    <string name="forgot">Forgot Password</string>
+    <string name="banner">Logo</string>
+    <string name="admin_banner">ADMIN PANEL</string>
+    <string name="developer">Developed By Adr_Soft.</string>
+    <string name="rf">Register Faculty</string>
+    <string name="rfname">NAME</string>
+    <string name="rfemail">EMAIL</string>
+    <string name="rfpassword">PASSWORD</string>
+    <string name="rfbutton">Register</string>
+    <string name="apas">Add Student</string>
+    <string name="aprs">Remove Student</string>
+    <string name="apaf">Add Faculty</string>
+    <string name="aprf">Remove Faculty</string>
+    <string name="apasub">Assign Subjecs</string>
+    <string name="apva">View Attendence</string>
+    <string name="apvd">View Data</string>
+    <string name="aprsem">Semster Reset For New</string>
+    <string name="cd">vector</string>
+    <string name="as">Assign Subjects</string>
+    <string name="ashint">Format - YYYY-YYYY</string>
+    <string name="asbutton">ASSIGN</string>
+    <string name="attp">ATTENDENCE PANEL</string>
+    <string name="attpbutton">Take Attendence</string>
+    <string name="csvdata">--Your CSV File Data Here.</string>
+    <string name="csvdatab">UPLOAD DATA</string>
+
+
+</resources>
