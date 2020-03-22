@@ -59,9 +59,9 @@ public class MainActivity extends AppCompatActivity {
             } else {
                 //Toast.makeText(this, ""+d.getData(u.getText().toString()), Toast.LENGTH_LONG).show();
                 BackgroundMail.newBuilder(this)
-                        .withUsername("kumarrahul.allduniv@gmail.com")
-                        .withPassword("Rm@1749001")
-                        .withMailto("kumarrahul.allduniv@gmail.com")
+                        .withUsername("*************")
+                        .withPassword("**********")
+                        .withMailto("*************")
                         .withType(BackgroundMail.TYPE_PLAIN)
                         .withSubject("---- RESET PASSWORD ----")
                         .withBody("Greetings From CCE,IPS,UoA Attendence Manager.\nDear User We Have Encountered A Request For Forgot Password For Account Registered With This Email.\nHere Is Your Password :- " + d.getData(u.getText().toString(),1) + "\nKindly Change Your Password , After Successful Login.\nThanks.")
